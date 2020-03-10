@@ -1,0 +1,14 @@
+﻿  Color.cpp
+  Game.cpp
+c:\users\tnakahara\desktop\tetris_dxlib\game.cpp(58): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\tnakahara\desktop\tetris_dxlib\game.cpp(297): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  GUI.cpp
+  Main.cpp
+  Result.cpp
+  Scene.cpp
+  Score.cpp
+  Sound.cpp
+  Title.cpp
+  Transition.cpp
+  コードを生成中...
+  Tetris_DxLib.vcxproj -> C:\Users\tnakahara\Desktop\Tetris_DxLib\Debug\Tetris_DxLib.exe
